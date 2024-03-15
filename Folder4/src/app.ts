@@ -12,7 +12,7 @@ age = 29;
 if (age > 20) {
   var isOld: boolean = true;
 }
-console.log(isOld); // The scope of this variable is global
+// console.log(isOld); // The scope of this variable is global
 
 // But in let variables:
 if (age > 20) {
