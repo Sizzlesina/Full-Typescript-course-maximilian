@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Basic Typescript
+# 💻Basic Typescript
 
 What you'll learn
 Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects
